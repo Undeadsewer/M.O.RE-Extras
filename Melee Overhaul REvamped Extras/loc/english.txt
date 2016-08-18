@@ -1,0 +1,46 @@
+{
+	"more_options_extras_options_menu_title" : "Extras Options",
+	"more_options_extras_options_menu_desc" : "WARNING: These options include gameplay-changing settings so be wary of other players when in use!",
+	
+	"bm_menu_btn_enhance_melee_weapon" : "Enhance Melee Weapon",
+	
+	"more_options_toggle_melee_sprinting_title" : "Melee Sprinting",
+	"more_options_toggle_melee_sprinting_desc" : "Gives you the ability to sprint while having your melee weapon equipped.",
+	
+	"more_options_toggle_melee_headshots_title" : "Melee Headshots",
+	"more_options_toggle_melee_headshots_desc" : "Melee weapons now register headshots, giving an additional 25% damage per hit.",
+	
+	"more_options_toggle_melee_breaching_title" : "Melee Breaching",
+	"more_options_toggle_melee_breaching_desc" : "Melee weapons have the ability to break open certain doors and barricades.",
+	
+	"more_options_toggle_melee_enhancer_title" : "Melee Enhancers",
+	"more_options_toggle_melee_enhancer_desc" : "Modify and customize your melee weapons to have extra abilities.",
+	
+	"more_options_toggle_pager_snatch_title" : "Pager Snatch",
+	"more_options_toggle_pager_snatch_desc" : "There is a 30% chance of automatically answering a pager when killing a guard with melee.",
+	
+	"more_options_enhancement_apply" 	: "Apply",
+	"more_options_enhancement_remove" 	: "Remove",
+	"more_options_enhancement_cancel" 	: "Cancel",
+	
+	"more_options_enhancement_electric_title" 	: "Electrified",
+	"more_options_enhancement_electric_desc" 	: "Enemies are temporarily stunned when hit. However, base damage is reduced by 50% and cannot deal extra charge damage.",
+	
+	"more_options_enhancement_poison_title" : "Poison Dipped",
+	"more_options_enhancement_poison_desc" 	: "Enemies have a chance of being poisoned and deal damage over time. However, base damage is reduced by 25%.",
+	
+	"more_options_enhancement_incinerated_title" 	: "Incinerated",
+	"more_options_enhancement_incinerated_desc" 	: "Enemies will burn from melee hits, dealing damage over 5 seconds. Fire damage is 25% of the initial damage dealt. This can only occur once every 10 seconds.",
+	
+	"more_options_enhancement_blood_lust_title" : "Blood Lust",
+	"more_options_enhancement_blood_lust_desc" 	: "All melee hits have a 50% chance of healing, restoring 3 to 5 HP per hit. This can only occur once every 0.5 seconds.",
+	
+	"more_options_enhancement_kleptomaniac_title" 	: "Kleptomaniac",
+	"more_options_enhancement_kleptomaniac_desc" 	: "All melee hits have a 75% chance of restoring ammo for both primary and secondary weapons. This can only occur once every 3 seconds.",
+	
+	"more_options_enhancement_aftershock_title" : "Aftershock",
+	"more_options_enhancement_aftershock_desc" 	: "Hitting anything with your melee weapon causes enemies within 1500m to be temporarily stunned. This can only occur once every 10 seconds. Does NOT work while in stealth.",
+	
+	"more_options_enhancement_swiftness_title" 	: "Swiftness",
+	"more_options_enhancement_swiftness_desc" 	: "Killing an enemy will boost your movement speed slightly for 10 seconds. This can only occur once every 3.5 seconds."
+}
